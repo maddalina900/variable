@@ -1,2 +1,3 @@
-# variable
-Read and print a variable
+#include <iostream.h>
+struct student
+{
